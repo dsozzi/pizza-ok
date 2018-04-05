@@ -21,7 +21,7 @@ and visit `localhost:3000`
 
 ## How to use it
 
-It's possible to filter pizzas by including or exluding specific ingredients. Simply type them in the search bar and enjoy your pizza.
+It's possible to filter pizzas by including or excluding specific ingredients. Simply type them in the search bar and enjoy your pizza.
 
 
 ## License
