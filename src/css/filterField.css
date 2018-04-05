@@ -1,0 +1,30 @@
+
+.filter-container a{
+    color: white;
+    text-decoration: underline;
+}
+
+.filter-container input{
+    border: none;
+    background-color: transparent;
+    outline: none;
+    font-size: 20px;
+    color: white;
+    padding: 0 10px;
+    display: flex;
+    -webkit-appearance: none;
+    border-radius:0px;
+    -webkit-appearance:textfield;
+    flex-shrink: 1;
+    max-width: 55%
+}
+
+.filter-container input::placeholder{
+   color: #e4e2e2c4;
+   padding-left: 2px;
+}
+
+.filter-container input:focus{
+    outline: none;
+    border: none;
+}

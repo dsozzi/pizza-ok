@@ -1,0 +1,29 @@
+.pizza-container{
+    border-bottom: 1px solid  var(--border-color);
+    padding: 10px 15px;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+.pizza-id{
+    background-color: var(--badge-color);
+    border-radius: 50%;
+    color: white;
+    height: 45px;
+    width: 45px;
+    vertical-align: middle;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pizza-price{
+    float: right;
+}
+
+.pizza-container .fav-icon{
+    float: right;
+    font-size: 24px;
+    margin-top: 10px;
+}
