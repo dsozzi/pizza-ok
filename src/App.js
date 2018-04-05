@@ -20,10 +20,6 @@ class App extends Component {
         const { currentView } = this.state;
         return (
             <div className="App">
-                {/* <header className="App-header">
-                    <img src={logo} className="App-logo" alt="logo" />
-                    <h1 className="App-title"></h1>
-                </header> */}
                 {this.state.currentView === "menu" ? <MenuContainer /> : <FavouritesContainer/>}
                 <Footer currentView={currentView} changeView={this.changeView} />
             </div>

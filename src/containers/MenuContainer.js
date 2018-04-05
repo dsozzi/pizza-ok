@@ -13,9 +13,7 @@ class MenuContainer extends Component {
 
     toggleCriteria = () => {
         this.setState(
-            ({ filterIncludeCriteria }) => {
-                return { filterIncludeCriteria: !filterIncludeCriteria };
-            },
+            ({ filterIncludeCriteria }) => ( { filterIncludeCriteria: !filterIncludeCriteria } ),
             () => this.filterList(this.state.filteringText)
         );
     };
