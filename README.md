@@ -24,6 +24,6 @@ and visit `localhost:3000`
 It's possible to filter pizzas by including or excluding specific ingredients. Simply type them in the search bar and enjoy your pizza.
 
 
-## License
+## Demo
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+ http://www.dsozzi.it/pizza-ok

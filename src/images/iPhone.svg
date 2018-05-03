@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="459px" height="920px" viewBox="0 0 459 920" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>iPhone JetBlack</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,49.9937509 C0,22.3829647 22.3889587,0 49.9945094,0 L405.005491,0 C432.616696,0 455,22.3851987 455,49.9937509 L455,870.006249 C455,897.617035 432.611041,920 405.005491,920 L49.9945094,920 C22.3833043,920 0,897.614801 0,870.006249 L0,49.9937509 Z M12,82.0040707 L12,811.995929 C12,813.653492 13.3418388,815 14.9970807,815 L440.002919,815 C441.666241,815 443,813.655032 443,811.995929 L443,82.0040707 C443,80.3465083 441.658161,79 440.002919,79 L14.9970807,79 C13.3337592,79 12,80.3449683 12,82.0040707 Z" id="path-1"></path>
+        <filter x="-0.8%" y="-0.4%" width="101.5%" height="100.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="3" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.133520154 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="190" y="43" width="76" height="8" rx="4"></rect>
+        <filter x="-1.3%" y="-12.5%" width="102.6%" height="125.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.7030453%" id="linearGradient-5">
+            <stop stop-color="#474747" offset="0%"></stop>
+            <stop stop-color="#2A2A2A" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-150.0%" y="-150.0%" width="400.0%" height="400.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="100%" y1="50%" x2="2.28595344%" y2="50%" id="linearGradient-7">
+            <stop stop-color="#E2C9C9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#E9E9E9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-948.000000, -140.000000)">
+            <g id="iPhone-JetBlack" transform="translate(948.000000, 140.000000)">
+                <g id="Body" transform="translate(2.000000, 0.000000)">
+                    <g id="Combined-Shape">
+                        <use fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Front-Speaker">
+                        <use fill="#252525" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    </g>
+                    <circle id="Home-button" stroke="url(#linearGradient-5)" stroke-width="4" fill="#000000" cx="228" cy="868" r="30"></circle>
+                </g>
+                <g id="Place-your-design" transform="translate(14.000000, 79.000000)"></g>
+                <g id="Front-Camera" transform="translate(167.000000, 42.000000)">
+                    <circle id="Body" fill="#252525" cx="5" cy="5" r="5"></circle>
+                    <circle id="Lens" fill="#595959" filter="url(#filter-6)" cx="5" cy="5" r="1"></circle>
+                </g>
+                <circle id="Sensor" fill="#252525" cx="230.5" cy="26.5" r="3.5"></circle>
+                <g id="Effect" transform="translate(2.000000, 60.000000)" fill="url(#linearGradient-7)">
+                    <rect id="Rectangle-4-Copy" opacity="0.304291214" x="0" y="0" width="8" height="14"></rect>
+                    <rect id="Rectangle-4-Copy-2" opacity="0.377943841" transform="translate(451.000000, 7.000000) scale(-1, 1) translate(-451.000000, -7.000000) " x="447" y="0" width="8" height="14"></rect>
+                    <rect id="Rectangle-4-Copy-4" opacity="0.304291214" x="0" y="770" width="8" height="14"></rect>
+                    <rect id="Rectangle-4-Copy-3" opacity="0.304291214" x="448" y="770" width="8" height="14"></rect>
+                </g>
+                <g id="Buttons" transform="translate(0.000000, 103.000000)" fill="#3D3D3D">
+                    <path d="M457,39 L458,39 C458.552285,39 459,39.4552782 459,40.0035552 L459,83.9964448 C459,84.550693 458.556135,85 458,85 L457,85 L457,39 Z" id="Power/Wakeup-Button"></path>
+                    <path d="M0,71.0087752 C0,70.451644 0.443864822,70 1,70 L2,70 L2,110 L1,110 C0.44771525,110 0,109.550781 0,108.991225 L0,71.0087752 Z" id="Voulume-Up"></path>
+                    <path d="M0,0.99180311 C0,0.444045377 0.443864822,0 1,0 L2,0 L2,20 L1,20 C0.44771525,20 0,19.5446944 0,19.0081969 L0,0.99180311 Z" id="Silent"></path>
+                    <path d="M0,131.008775 C0,130.451644 0.443864822,130 1,130 L2,130 L2,170 L1,170 C0.44771525,170 0,169.550781 0,168.991225 L0,131.008775 Z" id="Voulume-Up"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

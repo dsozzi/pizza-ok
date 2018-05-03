@@ -12,6 +12,16 @@ body {
   color: #4E5C6E;
   font-size: 14px;
 }
+
+body{
+  background-image: url('images/iPhone.svg');
+  background-size: 404px;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 body * {
   box-sizing: border-box;
 }
